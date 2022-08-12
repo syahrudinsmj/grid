@@ -1,0 +1,16 @@
+{
+    "name": "smjlabs/grid",
+    "description": "grid table using php",
+    "autoload": {
+        "psr-4": {
+            "Smjlabs\\Grid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syahrudinsmj",
+            "email": "syahrudinsmj@gmail.com"
+        }
+    ],
+    "require": {}
+}

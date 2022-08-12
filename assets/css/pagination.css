@@ -1,0 +1,26 @@
+.smj-pagination {
+    display: inline-block;
+    /* margin:10px 0px; */
+    /* padding:8px; */
+  }
+  
+  .smj-pagination a {
+    color: black;
+    float: left;
+    padding: 4px 10px;
+    text-decoration: none;
+    border-top: 1px solid #ddd; 
+    border-bottom: 1px solid #ddd; 
+    /* margin:0px 2px; */
+  }
+  
+  .smj-pagination a.active {
+    background-color: #ddd;
+    color: white;
+    /* border-radius: 5px; */
+  }
+  
+  .smj-pagination a:hover:not(.active) {
+    background-color: #ddd;
+    /* border-radius: 5px; */
+  }
